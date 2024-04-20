@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{4CAF9AA6-8381-4F20-9899-0331550FBD8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumberCheckerTests", "PrimeNumberCheckerTests\PrimeNumberCheckerTests.csproj", "{BCFDFAE6-5DB7-400A-BE74-79C9BC389450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CAF9AA6-8381-4F20-9899-0331550FBD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAF9AA6-8381-4F20-9899-0331550FBD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAF9AA6-8381-4F20-9899-0331550FBD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAF9AA6-8381-4F20-9899-0331550FBD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFDFAE6-5DB7-400A-BE74-79C9BC389450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFDFAE6-5DB7-400A-BE74-79C9BC389450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFDFAE6-5DB7-400A-BE74-79C9BC389450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFDFAE6-5DB7-400A-BE74-79C9BC389450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A80A5C5C-AF24-4313-AB09-9A9AE992F6EE}
+	EndGlobalSection
+EndGlobal
